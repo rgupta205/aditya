@@ -3,6 +3,6 @@
 
 Void main()
 {
-printf(" Hi this is my first git");
+printf(" Hi this is my first git" i am learning);
 }
 
